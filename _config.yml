@@ -1,9 +1,9 @@
 # Site settings
 title: Shui's Blog
-SEOTitle: SHui's Blog
+SEOTitle: Shui's Blog
 header-img: img/post-bg-desk.jpg
 email: ruoshuil@outlook.com
-description: "若有天我不负勇往，是否坚持走完这一场"
+description: "若有天我不负勇往，能否坚持走完这一场"
 keyword: "我的博客"
 url: "http://almostwater.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -90,19 +90,4 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "WP",
-        href: "https://wangpei.ink"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+
