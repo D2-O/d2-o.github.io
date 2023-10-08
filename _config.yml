@@ -1,29 +1,26 @@
 # Site settings
-title: My Blog
-SEOTitle: 我的博客 | My Blog
+title: Shui's Blog
+SEOTitle: SHui's Blog
 header-img: img/post-bg-desk.jpg
-email: 暂无
-description: "写一句你想写的话"
+email: ruoshuil@outlook.com
+description: "若有天我不负勇往，是否坚持走完这一场"
 keyword: "我的博客"
 url: "http://shui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/shui.github.io.git" # you code repository
+github_repo: "https://github.com/Ruoshui-Liu/shui.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+sidebar-about-description: "苟利国家生死以，岂因祸福避趋之"
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     暂无
-zhihu_username:     暂无
+weibo_username:     暂无
 github_username:    暂无
-facebook_username:  暂无
-jianshu_username:   暂无
-#twitter_username:   暂无
+twitter_username:   暂无
 
 
 
