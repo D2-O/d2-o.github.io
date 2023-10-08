@@ -1,19 +1,25 @@
 ---
 layout:     post
-title:      关于人民币汇率及中国货币政策若干问题的分析
-subtitle:   2015年第01期 合肥兴泰金融控股集团金融研究所
+title:      Accounting for Changes in the Homeownership Rate
+subtitle:   Matthew Chambers, Carlos Garriga, Don E. Schlagenhauf；2009；IER
 date:       2023-10-08
 author:     Almost Water
-header-img: img/art-Anaconda-TensorFlow.jpg
+header-img: 
 catalog: true
 tags:
-    - 研报
     - 宏观经济
-    - 货币政策
+    - 房地产经济
+    - 论文
 ---
 
 
+# Abstract: 
+*This article accounts for the boom in homeownership from 1994 to 2005 byexamining the roles of demographic changes and mortgage innovations. To mea-sure the impact of these factors, we construct a quantitative general equilibriumoverlapping generation model with housing. In the long-run, mortgage innova-tion accounts for between 56 and 70% of the increase whereas demographicsaccount for a much smaller portion. We test this result by considering changes inmortgages after 1940. We find that the introduction of the conventional fixed ratemortgage accounts for at least 50% of the observed increase in homeownershipduring that period.*
 
-# 中国的货币政策存在一个两难的选择问题，一方面美国QE退出的消息引发的资金抽离，欧日韩等国的宽松货币政策使得人民币贬值压力增加，宽松的货币政策会导致人民币汇率进一步下降，人民币资产价值缩水，资金外逃加剧；而如果采取紧缩政策则会使得经济通缩压力进一步增加
-# 2015年1月，中国CPI只有0.8%，通缩的威胁已经步步逼近，在此背景下，中国央行的选择是逐步放松货币政策以提振实体经济，但由于实体经济增速下降、金融市场结构不健全等原因导致货币在资本市场内空转的现象，市场融资需求与金融体系流动性供给之间的错配，严重影响了货币政策的实施效果。
-# 货币政策执行效果不佳的原因，一是实体经济融资需求与金融体系流动性供给之间的错配；二是利率双轨制；三是影子银行导致的负面利率市场化。
+# Highlights
+Demographic and Institutional Changes. Pays particular attention to the role of changes in **demographic structure** and **financial innovations** in the mortgage market.
+
+# Objective
+- The objective of this article is to account for the observed increase in the home-ownership rate and thereby understand the role played by demographic factorsand mortgage market innovations. To measure the aggregate and distributionalimpact of these two factors, we construct a **general equilibrium overlapping gen-erations model** with housing and mortgage markets. The model generates participation rates,$π_{it}$, that result from the household's optimal behavior
+
+- The model stresses the dual role of housing as a consumption and investment good.The investment in housing differs from real capital in that a **downpayment andmortgage are required, changes in the housing investment position are subject totransaction costs, and idiosyncratic shocks affect sales value.**
