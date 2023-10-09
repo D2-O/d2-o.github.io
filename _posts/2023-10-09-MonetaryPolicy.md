@@ -37,7 +37,3 @@ tags:
 |6月末个人住房贷款加权平均利率|4.11%|-0.51%|
 |6月末金融机构超额准备金率|1.6%|+0.1%|
 
-![Alt text](image-1.png)
-![Alt text](image.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
