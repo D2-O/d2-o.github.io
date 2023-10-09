@@ -35,5 +35,5 @@ tags:
 |6月新发放企业贷款加权平均利率|3.95%|-0.21%|
 |6月末个人住房贷款加权平均利率|4.11%|-0.51%|
 |6月末金融机构超额准备金率|1.6%|+0.1%|
-![](https://github.com/almostwater/MarkdownPhotos/blob/main/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A/2023-2/image-1.png?raw=true)
 
+![][https://github.com/almostwater/MarkdownPhotos/blob/main/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A/2023-2/image-1.png?raw=true]
