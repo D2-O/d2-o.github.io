@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      中国货币政策执行报告
-subtitle:   更新至2023年第二季度
+subtitle:   2023年第二季度
 date:       2023-10-09
 author:     Almost Water
 header-img: img/art-Anaconda-TensorFlow.jpg
@@ -10,6 +10,7 @@ tags:
     - 宏观经济
     - 政府文件
     - 货币政策
+    - 中国货币政策执行报告
 ---
 
 ## [2023年第二季度](https://www.gov.cn/lianbo/bumen/202308/P020230818263426256347.pdf)
@@ -36,3 +37,9 @@ tags:
 |6月末金融机构超额准备金率|1.6%|+0.1%|
 
 ![](https://github.com/almostwater/MarkdownPhotos/blob/main/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A/2023-2/image-1.png?raw=true)
+
+![](https://github.com/almostwater/MarkdownPhotos/blob/main/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A/2023-2/image-2.png?raw=true)
+
+![](https://github.com/almostwater/MarkdownPhotos/blob/main/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A/2023-2/image-3.png?raw=true)
+
+![](https://github.com/almostwater/MarkdownPhotos/blob/main/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A/2023-2/image-4-1.png?raw=true)
