@@ -1,9 +1,9 @@
 # Site settings
-title: Shui's Blog
-SEOTitle: Shui's Blog
+title: Almost Water's Blog
+SEOTitle: Almost Water's Blog
 header-img: img/post-bg-desk.jpg
 email: ruoshuil@outlook.com
-description: "若有天我不负勇往，能否坚持走完这一场"
+description: "If one day I don't live up to my courage, can I still persist to the end?"
 keyword: "我的博客"
 url: "http://almostwater.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/almostwater/almostwater.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "上善若水，水善利万物而不争"
+sidebar-about-description: "上善若水，水善利万物而不争 <br> The greatest virtue is just like water, nurturing all things without competing with them."
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
