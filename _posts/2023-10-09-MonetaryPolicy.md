@@ -14,6 +14,7 @@ tags:
 
 ## [2023年第二季度](https://www.gov.cn/lianbo/bumen/202308/P020230818263426256347.pdf)
 
+**<details><summary>主要内容</summary>**
 - 稳健的货币政策
     - 保持货币信贷合理增长。综合运用降准、再贷款再贴现、中期借贷便利、公开市场操作等
     - 推动实体经济融资成本文中有降。发挥政策利率引导作用，6月、8月公开市场逆回购操作和中期借贷便利中标利率分别合计下行20个和25个基点
@@ -38,3 +39,5 @@ tags:
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 ![Alt text](image-4-1.png)
+
+</details>
