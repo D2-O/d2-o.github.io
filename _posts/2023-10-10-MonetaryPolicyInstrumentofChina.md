@@ -13,10 +13,12 @@ tags:
 ---
 
 ## 公开市场业务
- <details><summary>人民币操作</summary>
+ <details>
+    <summary>人民币操作</summary>
 
  </details>
 
- <details><summary> 外汇操作</summary>
+ <details>
+    <summary> 外汇操作</summary>
 
  </details>
