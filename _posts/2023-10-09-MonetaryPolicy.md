@@ -3,8 +3,7 @@ layout:     post
 title:      中国货币政策执行报告
 subtitle:   2023年第二季度
 date:       2023-10-09
-author:     Almost Water
-header-img: img/art-Anaconda-TensorFlow.jpg
+author:     D2O
 catalog: true
 tags:
     - 宏观经济
