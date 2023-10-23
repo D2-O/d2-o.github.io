@@ -105,3 +105,15 @@ $$
 $$
 \hat{\pi_t}=\beta E_t \hat{\pi_{t+1}}+\kappa \hat{\gamma_t}
 $$
+$$
+\sigma \equiv -\frac{u'}{u'' \gamma}
+$$
+intertemporal elasticity of substitution
+$$
+\omega \equiv \frac{w'}{w'' \gamma}
+$$
+elasticity of supply of goods
+$$
+\kappa \equiv \frac{(1-\phi)(1-\phi \beta)}{\phi} \frac{\omega+\sigma}{\sigma(\omega+\theta)}
+$$
+$\theta$ is the elasticity of substitution among differentiated goods.
